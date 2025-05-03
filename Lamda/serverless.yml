@@ -1,4 +1,4 @@
-service: lamdabhai
+service: finallamda
 
 provider:
   name: aws
@@ -16,8 +16,3 @@ functions:
           path: /api/messages
           method: get
 
-package:
-  exclude:
-    - node_modules/**
-    - .gitignore
-    - .git/**

@@ -1,8 +1,8 @@
 {
   "service": {
-    "service": "lamdabhai",
+    "service": "finallamda",
     "serviceObject": {
-      "name": "lamdabhai"
+      "name": "finallamda"
     },
     "provider": {
       "name": "aws",
@@ -17,7 +17,7 @@
           "UserapiLogGroup": {
             "Type": "AWS::Logs::LogGroup",
             "Properties": {
-              "LogGroupName": "/aws/lambda/lamdabhai-dev-userapi"
+              "LogGroupName": "/aws/lambda/finallamda-dev-userapi"
             }
           },
           "IamRoleLambdaExecution": {
@@ -45,7 +45,7 @@
                     "Fn::Join": [
                       "-",
                       [
-                        "lamdabhai",
+                        "finallamda",
                         "dev",
                         "lambda"
                       ]
@@ -63,7 +63,7 @@
                         ],
                         "Resource": [
                           {
-                            "Fn::Sub": "arn:${AWS::Partition}:logs:${AWS::Region}:${AWS::AccountId}:log-group:/aws/lambda/lamdabhai-dev*:*"
+                            "Fn::Sub": "arn:${AWS::Partition}:logs:${AWS::Region}:${AWS::AccountId}:log-group:/aws/lambda/finallamda-dev*:*"
                           }
                         ]
                       },
@@ -74,7 +74,7 @@
                         ],
                         "Resource": [
                           {
-                            "Fn::Sub": "arn:${AWS::Partition}:logs:${AWS::Region}:${AWS::AccountId}:log-group:/aws/lambda/lamdabhai-dev*:*:*"
+                            "Fn::Sub": "arn:${AWS::Partition}:logs:${AWS::Region}:${AWS::AccountId}:log-group:/aws/lambda/finallamda-dev*:*:*"
                           }
                         ]
                       }
@@ -87,7 +87,7 @@
                 "Fn::Join": [
                   "-",
                   [
-                    "lamdabhai",
+                    "finallamda",
                     "dev",
                     {
                       "Ref": "AWS::Region"
@@ -103,11 +103,11 @@
             "Properties": {
               "Code": {
                 "S3Bucket": "serverless-framework-deployments-us-east-1-ab3f3882-1395",
-                "S3Key": "serverless/lamdabhai/dev/1745866349685-2025-04-28T18:52:29.685Z/lamdabhai.zip"
+                "S3Key": "serverless/finallamda/dev/1745947736519-2025-04-29T17:28:56.519Z/finallamda.zip"
               },
               "Handler": "index.handler",
               "Runtime": "nodejs20.x",
-              "FunctionName": "lamdabhai-dev-userapi",
+              "FunctionName": "finallamda-dev-userapi",
               "MemorySize": 1024,
               "Timeout": 6,
               "Role": {
@@ -121,20 +121,20 @@
               "UserapiLogGroup"
             ]
           },
-          "UserapiLambdaVersionHcaSwHA3qGzxoSFsmV4IGKu9xh6Lsui9HebuLtkc": {
+          "UserapiLambdaVersionUkLM9Saxt7Asm2NZpCXaryDYZxEtgrQXzKQD4YPI": {
             "Type": "AWS::Lambda::Version",
             "DeletionPolicy": "Retain",
             "Properties": {
               "FunctionName": {
                 "Ref": "UserapiLambdaFunction"
               },
-              "CodeSha256": "9cGgtsoT+z/FCJimg1mK9xDPAS563sFrDFmud9c962g="
+              "CodeSha256": "Jh4p8mao7sFS0xpd2qmxQM2eav/PKaw2VJPMr+HWYU8="
             }
           },
           "ApiGatewayRestApi": {
             "Type": "AWS::ApiGateway::RestApi",
             "Properties": {
-              "Name": "dev-lamdabhai",
+              "Name": "dev-finallamda",
               "EndpointConfiguration": {
                 "Types": [
                   "EDGE"
@@ -274,7 +274,7 @@
               "UserapiLambdaPermissionApiGateway"
             ]
           },
-          "ApiGatewayDeployment1745866333874": {
+          "ApiGatewayDeployment1745947722671": {
             "Type": "AWS::ApiGateway::Deployment",
             "Properties": {
               "RestApiId": {
@@ -329,16 +329,16 @@
           "ServerlessDeploymentBucketName": {
             "Value": "serverless-framework-deployments-us-east-1-ab3f3882-1395",
             "Export": {
-              "Name": "sls-lamdabhai-dev-ServerlessDeploymentBucketName"
+              "Name": "sls-finallamda-dev-ServerlessDeploymentBucketName"
             }
           },
           "UserapiLambdaFunctionQualifiedArn": {
             "Description": "Current Lambda function version",
             "Value": {
-              "Ref": "UserapiLambdaVersionHcaSwHA3qGzxoSFsmV4IGKu9xh6Lsui9HebuLtkc"
+              "Ref": "UserapiLambdaVersionUkLM9Saxt7Asm2NZpCXaryDYZxEtgrQXzKQD4YPI"
             },
             "Export": {
-              "Name": "sls-lamdabhai-dev-UserapiLambdaFunctionQualifiedArn"
+              "Name": "sls-finallamda-dev-UserapiLambdaFunctionQualifiedArn"
             }
           },
           "ServiceEndpoint": {
@@ -364,7 +364,7 @@
               ]
             },
             "Export": {
-              "Name": "sls-lamdabhai-dev-ServiceEndpoint"
+              "Name": "sls-finallamda-dev-ServiceEndpoint"
             }
           }
         }
@@ -391,44 +391,33 @@
             }
           }
         ],
-        "name": "lamdabhai-dev-userapi",
+        "name": "finallamda-dev-userapi",
         "package": {},
         "memory": 1024,
         "timeout": 6,
         "runtime": "nodejs20.x",
         "vpc": {},
-        "versionLogicalId": "UserapiLambdaVersionHcaSwHA3qGzxoSFsmV4IGKu9xh6Lsui9HebuLtkc"
+        "versionLogicalId": "UserapiLambdaVersionUkLM9Saxt7Asm2NZpCXaryDYZxEtgrQXzKQD4YPI"
       }
     },
     "configValidationMode": "warn",
     "serviceFilename": "serverless",
     "initialServerlessConfig": {
-      "service": "lamdabhai",
+      "service": "finallamda",
       "provider": {
         "$ref": "$[\"service\"][\"provider\"]"
       },
       "functions": {
         "$ref": "$[\"service\"][\"functions\"]"
-      },
-      "package": {
-        "exclude": [
-          "node_modules/**",
-          ".gitignore",
-          ".git/**"
-        ],
-        "artifactsS3KeyDirname": "serverless/lamdabhai/dev/code-artifacts",
-        "deploymentBucket": "serverless-framework-deployments-us-east-1-ab3f3882-1395",
-        "artifact": "C:\\Users\\murta\\OneDrive\\Desktop\\TechLearn\\AWS\\Lamda\\.serverless\\lamdabhai.zip",
-        "artifactDirectoryName": "serverless/lamdabhai/dev/1745866349685-2025-04-28T18:52:29.685Z"
       }
     },
     "appId": null,
     "orgId": null,
     "layers": {},
-    "artifact": "C:\\Users\\murta\\OneDrive\\Desktop\\TechLearn\\AWS\\Lamda\\.serverless\\lamdabhai.zip"
+    "artifact": "C:\\Users\\murta\\OneDrive\\Desktop\\TechLearn\\AWS\\Lamda\\.serverless\\finallamda.zip"
   },
   "package": {
-    "artifactDirectoryName": "serverless/lamdabhai/dev/1745866349685-2025-04-28T18:52:29.685Z",
-    "artifact": "lamdabhai.zip"
+    "artifactDirectoryName": "serverless/finallamda/dev/1745947736519-2025-04-29T17:28:56.519Z",
+    "artifact": "finallamda.zip"
   }
 }
