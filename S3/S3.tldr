@@ -1,0 +1,2850 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 4,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 25,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.asset.image": 5,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 3,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 2,
+			"com.tldraw.shape.geo": 10,
+			"com.tldraw.shape.note": 9,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 5,
+			"com.tldraw.shape.highlight": 1,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 3,
+			"com.tldraw.binding.arrow": 0
+		}
+	},
+	"records": [
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": 1104.4227794875683,
+			"y": 5930.9219430210715,
+			"lastActivityTimestamp": 1746600001291,
+			"meta": {}
+		},
+		{
+			"x": 709.2345405638259,
+			"y": 2161.3592212008175,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:B1yUDmX11kJWNuFOkjRlv",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 159.40625,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Random user"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "ai3Bg",
+			"typeName": "shape"
+		},
+		{
+			"x": 740.0172745760982,
+			"y": 305.2825830380791,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:CzeZ_tSrDgPVBs2h_ZhpL",
+			"type": "geo",
+			"props": {
+				"w": 270.0741043523309,
+				"h": 242.27241268052683,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a65b2",
+			"typeName": "shape"
+		},
+		{
+			"x": 1379.250902728378,
+			"y": 2295.260916659518,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:J4M97pDuYFORKEJJAm8tL",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1037.8021240234375,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "the aws check that query paramerters and check with the user credentials"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "who craeted the bucket "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "and then check with permissions like getobject "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aj2mi",
+			"typeName": "shape"
+		},
+		{
+			"x": -85.50059014176048,
+			"y": 433.70024109042004,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:H88rk6mfWViPN_XgapiD9",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aE8B0",
+			"typeName": "shape"
+		},
+		{
+			"x": -251.12889714718398,
+			"y": 640.2274831003176,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:S-MocTRHVmP1kQZbC-1zX",
+			"type": "arrow",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 15.269378988879534,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 131.0654641842791,
+					"y": -83.40525682444365
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a3jUD",
+			"typeName": "shape"
+		},
+		{
+			"x": -85.6422562627605,
+			"y": 342.3515658701617,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ubPdBu8T013hv6BRk5pGT",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aC5zn",
+			"typeName": "shape"
+		},
+		{
+			"x": 57.33818400771429,
+			"y": 385.7288313779605,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wl0pAiEDiTtzRgDGe6xnj",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 20,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aB2X2",
+			"typeName": "shape"
+		},
+		{
+			"x": -0.6296126228215826,
+			"y": 438.99579275128593,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Tf0Tn5TvueYOYbff9beeU",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aGAVi",
+			"typeName": "shape"
+		},
+		{
+			"x": 459.9431702237673,
+			"y": 305.2825830380791,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:CU-2QAK2gieySEj0muiyr",
+			"type": "geo",
+			"props": {
+				"w": 270.0741043523309,
+				"h": 242.27241268052683,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a50HB",
+			"typeName": "shape"
+		},
+		{
+			"x": 579.1835649027663,
+			"y": 917.85364706885,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vPjPoYEgj0eOO29sUd5gx",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 370.60418701171875,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Presigned urls"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aX1Zt",
+			"typeName": "shape"
+		},
+		{
+			"x": 1223.9419717985502,
+			"y": -4194.388593053729,
+			"z": 0.17966830294728722,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"meta": {},
+			"id": "binding:NezGX7Enr0CT-rWJPe7DP",
+			"type": "arrow",
+			"fromId": "shape:cKuQA0GAZHz8mzo4aXs5L",
+			"toId": "shape:Tf0Tn5TvueYOYbff9beeU",
+			"props": {
+				"isPrecise": false,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.5515901617505145,
+					"y": 0.7843127223181139
+				},
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 1431.6844242294692,
+			"y": 1019.642116282112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:GnkdXGCQkVrdoH8goUIon",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 188.20834350585938,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "privatebucket"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aZ51e",
+			"typeName": "shape"
+		},
+		{
+			"x": 892.2411125962138,
+			"y": 342.3515658701617,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:W3-xf2Jjds1_Vf3i0OhDq",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aO68S",
+			"typeName": "shape"
+		},
+		{
+			"x": 888.8120933391195,
+			"y": 2221.2626923279986,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dO8HZIFXxsyQKzE-AI-4U",
+			"type": "arrow",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": -77.52437802219684,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 477.26429830707355,
+					"y": -606.632364420338
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "mono",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "ahefd",
+			"typeName": "shape"
+		},
+		{
+			"x": -286.3893006347942,
+			"y": 1350.2908879964855,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ShSaUMOKUxckPZS7nW4p6",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 518.8690413862727,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Public bucket "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "The url generted is simple"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "www. yourbucketname  / your filename "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aV58w",
+			"typeName": "shape"
+		},
+		{
+			"x": 743.6489645323456,
+			"y": 271.87407674977453,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:SeTdnOacb6puvUhApPIZh",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 31.21875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "S3"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aA492",
+			"typeName": "shape"
+		},
+		{
+			"x": -279.5609615952046,
+			"y": 1024.8355929396264,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7RxJhvcSxlDRq2ckibwUo",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 173.80209350585938,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "publicbucket"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aa8t8",
+			"typeName": "shape"
+		},
+		{
+			"x": 659.804532475423,
+			"y": 5714.743855188292,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Mm3S40POGSrvMpHFLBNxN",
+			"type": "geo",
+			"props": {
+				"w": 675.0381184187577,
+				"h": 522.0294782438386,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "xl",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "ak8XV",
+			"typeName": "shape"
+		},
+		{
+			"x": 857.0324726762424,
+			"y": 2228.599393323382,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:l9YeOI1JG96w_rFxbOKKS",
+			"type": "geo",
+			"props": {
+				"w": 65.78348294292698,
+				"h": 72.70811848627955,
+				"geo": "ellipse",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "mono",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "adAPv",
+			"typeName": "shape"
+		},
+		{
+			"id": "asset:-1529945830",
+			"type": "image",
+			"typeName": "asset",
+			"props": {
+				"name": "download.png",
+				"src": "data:image/png;base64,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",
+				"w": 225,
+				"h": 225,
+				"fileSize": 3527,
+				"mimeType": "image/png",
+				"isAnimated": false
+			},
+			"meta": {}
+		},
+		{
+			"x": 179.86906587143642,
+			"y": 305.2825830380791,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5KkBsfWGKV1RdnQua8DpP",
+			"type": "geo",
+			"props": {
+				"w": 270.0741043523309,
+				"h": 242.27241268052683,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a4BiI",
+			"typeName": "shape"
+		},
+		{
+			"x": -4.151975524512636,
+			"y": 342.3515658701617,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:feGUiTWrwCaMkf3smD2KY",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aD75Q",
+			"typeName": "shape"
+		},
+		{
+			"x": 1387.62862305825,
+			"y": 1584.428486262615,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:xJZg_6KguLTuvVzAp7_pl",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1223.9528398110804,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 0.7884773429602082,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png"
+								},
+								{
+									"type": "text",
+									"text": " error"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm="
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40Zi"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "rPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxP"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "NWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0m"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "K4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJ"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "g81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchob"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "ZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgP"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "x7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eN"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "Koeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTf"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "sA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://murtazaprivbucket.s3.us-east-1.amazonaws.com/download.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZ3OSZ3RDAUL2QIJO%2F20250507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250507T055904Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEnst44ksVm6Zj5NZDgDJkjke5MNez6rn4LhqupK9L5bAiAu2JEa0It72d4MHPR4pOavyWaaeYaw%2FOIoCYzz749XuyrXAghXEAAaDDY3NzQzNjMxNjc0MiIMbI%2Bv1G4UkutB2xj7KrQCt3IssIJpOLsFcOqJIyfnehWzvtRacLXjEaQ9YJQCvLEA1XslSIxqe7LKEBP4koTi40ZirPf7FUk9Z4m9IzdvuOp6HxVnZOIuM3scvArdkdN33nRHtabvN7gs83SyFd8D2o2UU18SnhblZJv8Zk2rxPNWoW2dUy8ujJq91WdkUfm%2FeNFG692Apx9ZULd55QqjhJKcYwfc%2BMsZ6uZq7AKqlepBnh15JgU0ir0mK4qPUPKKXC3hwL0TuAGKev5Zfg9hzm%2FgX98fEuboHbIi%2Fjys6Afy%2B5olhda%2F4o5vIaPT4CJg81KOe1RoV%2FryOuroAATPO4lcgLxXKP%2F2nsZXN4GybfA7b1E0%2FMHzSbLsR1diHuU1bYEULebchobZTpcnyjB2dY%2B5UMOvW6wVhk8BCoQ1bSiRR%2F8w%2FZ%2FpwAY6rgIAc%2FgEvq2gnOQk%2BZTzN4eo1r4l19rjM58r9DwkJh1XQyE8QX4NB5W9zpwchK0JpB%2FJYBPY3ga2sWHdPRdLf%2BuQivIOkp8BTpUt5oWsvDa3didyp8c5L2mS5qCyWoHxE3Za8OUcT11%2BqLM1RYusfLKPNpzgGvyCmYbeXOtVU95eeCL7j7vJHDFV0DjCs%2B6L9UZewmm5g3EEpXFZEQ7uxA8HlEX%2BB21N8nDl%2FwNmuykzozupMn1wNGhoqEyzGgPx7pzR8MXAKOH%2Fy0j2o9PQoyDciniXfqKbJ%2BSr%2Bfb%2Bf6urVSsdr9qFsL1axYboiXRR6UTS8yt4eNKoeb2%2Fe7ELzHLr0zaCBJiF9eobQOQkz0%2F%2BgArzdAsGRsCJlUOKG5f7BZS7tYHo2%2F%2BT92oDRqTfsA%3D%3D&X-Amz-Signature=02b5dd179b89a9a44fda0e6caabe62d2ec960e4d1a0eec32dabdb6e461b828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "828a0&X-Amz-SignedHeaders=host&response-content-disposition=inline"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "                                                                         Works"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "ac5nj",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:nAFizfnOAVuQQGmG0hT-E"
+			],
+			"hoveredShapeId": "shape:nAFizfnOAVuQQGmG0hT-E",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": -116.30066050496953,
+			"y": 263.38135830880515,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5GrIcSV8pBipdNii1Zn4Q",
+			"type": "geo",
+			"props": {
+				"w": 1145.2098952713739,
+				"h": 360.35820415257297,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a24Lv",
+			"typeName": "shape"
+		},
+		{
+			"x": -284.6337254934208,
+			"y": 1071.3528708419303,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:VMDx_TPiCLoM6k6B8PfyQ",
+			"type": "image",
+			"props": {
+				"w": 225,
+				"h": 225,
+				"assetId": "asset:-1529945830",
+				"playing": true,
+				"url": "",
+				"crop": null,
+				"flipX": false,
+				"flipY": false,
+				"altText": ""
+			},
+			"parentId": "page:page",
+			"index": "aT2I0",
+			"typeName": "shape"
+		},
+		{
+			"x": 798.9775218927703,
+			"y": 346.3233053695743,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FfoQY2IDrtiqC3L_A5CPI",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aP7zT",
+			"typeName": "shape"
+		},
+		{
+			"x": 216.63052003582902,
+			"y": 432.3763077229457,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:S4vW-1CBnhUJ_ISWTLG-e",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aI8Fu",
+			"typeName": "shape"
+		},
+		{
+			"x": 798.3864791740485,
+			"y": 431.0523743554713,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:bgJn1uJxZMEuDdLYm7Rny",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aOvj50ce",
+			"typeName": "shape"
+		},
+		{
+			"x": 651.8836760018828,
+			"y": 435.02408355337866,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:G9s54HnVUQE7YrwJsd-xN",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aNBdh",
+			"typeName": "shape"
+		},
+		{
+			"x": 38.80372289317825,
+			"y": 491.9514911689769,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:cKuQA0GAZHz8mzo4aXs5L",
+			"type": "arrow",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 111.20694849624772,
+					"y": 272.7219710872796
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aGmhj",
+			"typeName": "shape"
+		},
+		{
+			"x": 953.9853663295934,
+			"y": 2268.464632152508,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:oww7OvhTYjFSsyuIHIKRc",
+			"type": "arrow",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": -77.52437802219684,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 372.37093864273254,
+					"y": -157.33979941503094
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "mono",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "ah6AC",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:iPsfgyY3xBJyH4koRXdpF",
+			"type": "arrow",
+			"fromId": "shape:S-MocTRHVmP1kQZbC-1zX",
+			"toId": "shape:F0kwVPTRZhfPR1x6A689M",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.11764686082881723,
+					"y": 0.9508196721311477
+				},
+				"terminal": "end"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 194.05525518986906,
+			"y": 275.84575564617666,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-1T8cwju9Il89LNPlW4ld",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 31.21875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "S3"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a91wf",
+			"typeName": "shape"
+		},
+		{
+			"x": 1414.9154390560752,
+			"y": 1067.890553070254,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:tBzxrFRpWeJdyHhQL3KOS",
+			"type": "image",
+			"props": {
+				"w": 225,
+				"h": 225,
+				"assetId": "asset:-1529945830",
+				"playing": true,
+				"url": "",
+				"crop": null,
+				"flipX": false,
+				"flipY": false,
+				"altText": ""
+			},
+			"parentId": "page:page",
+			"index": "aUAkQ",
+			"typeName": "shape"
+		},
+		{
+			"x": 565.0977829997584,
+			"y": 440.3196352142446,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ydQ1VBKgp1BzM17K-01fF",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aM7Di",
+			"typeName": "shape"
+		},
+		{
+			"x": 877.803050478117,
+			"y": 2300.6112343183963,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:0s5DYhmmBH6Ifenl2IPJs",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a28iD": {
+						"id": "a28iD",
+						"index": "a28iD",
+						"x": -24.258020677045693,
+						"y": 40.89208474657198
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "af62T",
+			"typeName": "shape"
+		},
+		{
+			"x": 895.6216275678735,
+			"y": 420.4612710337395,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:HD3mMGd9bsIBhKm5aP2Pr",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aOjSh",
+			"typeName": "shape"
+		},
+		{
+			"x": 297.3333740234375,
+			"y": 151.80208206176758,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:eKJFWfNCV7WgauLCZsAtz",
+			"type": "text",
+			"props": {
+				"color": "green",
+				"size": "m",
+				"w": 261.9583435058594,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.4703502848532055,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "S3  scalable storage "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": 1908.494722163758,
+			"y": 1483.7028680219148,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5ipoQFcPqp8v3UT5Zo3CG",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 245.80209350585938,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Token + signature"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "abAnT",
+			"typeName": "shape"
+		},
+		{
+			"x": 566.2799896432224,
+			"y": 342.3515658701617,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:IGwEN_RB6T_SZbtgOkpRE",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aKC4m",
+			"typeName": "shape"
+		},
+		{
+			"x": -86.96612902722438,
+			"y": 283.78908313747553,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:G9AmaDpgsbmkTw7RMVTeK",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 31.21875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "S3"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a73YR",
+			"typeName": "shape"
+		},
+		{
+			"x": 882.9996578499135,
+			"y": 2296.1140747749273,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gPkhgphcC7znEZLjRNuxT",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 1.7311192630580763,
+						"y": 0
+					},
+					"a29eX": {
+						"id": "a29eX",
+						"index": "a29eX",
+						"x": 0.3511505915746511,
+						"y": 78.59471019381817
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "ae9gq",
+			"typeName": "shape"
+		},
+		{
+			"x": 810.5905001002193,
+			"y": 5914.380897349646,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:nAFizfnOAVuQQGmG0hT-E",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 276.53125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.4656804380398005,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "node js user"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "al3UH",
+			"typeName": "shape"
+		},
+		{
+			"x": 465.27526524116956,
+			"y": 271.87404644826927,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:HFiNbtebkSz3glm-QANOZ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 31.21875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "S3"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a81mR",
+			"typeName": "shape"
+		},
+		{
+			"x": -305.4084380278335,
+			"y": 635.9446018512915,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-TN3K0rjhtKKnYj5va-S-",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 188.28125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Bucket "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "murtazabucket"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aQ3Sr",
+			"typeName": "shape"
+		},
+		{
+			"x": 1709.6217192117729,
+			"y": 1216.9926839792333,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:80dTc9tXYsFiCM2QaJ1sD",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 231.40625,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "/images/meme.png"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aY6yP",
+			"typeName": "shape"
+		},
+		{
+			"x": 199.86924768046765,
+			"y": 338.37988697375965,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7SM9UTEaqJX0NQ8R6U3b0",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aF8MP",
+			"typeName": "shape"
+		},
+		{
+			"x": 898.199340521571,
+			"y": 2301.304373199559,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Tt2sOFKajviAEUOO-O0rw",
+			"type": "line",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a28iD": {
+						"id": "a28iD",
+						"index": "a28iD",
+						"x": 18.713322078217175,
+						"y": 42.97140620918162
+					}
+				},
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "ag1NJ",
+			"typeName": "shape"
+		},
+		{
+			"x": 1165.2502090131634,
+			"y": 272.96338627809666,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:d98e_17F-rCf-WNcly7aS",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "m",
+				"w": 667.8021240234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 0.7357320259182478,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Each bucket has to be public"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Each bucket must have to specify the policies"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "{"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    \"Version\": \"2012-10-17\","
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    \"Statement\": ["
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "        {"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "            \"Sid\": \"Statement1\","
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "            \"Effect\": \"Allow\","
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "            \"Principal\": \"*\","
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "            \"Action\": \"s3:GetObject\","
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "            \"Resource\": \"arn:aws:s3:::murtazabucket57/*\""
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "        }"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "    ]"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "}"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aS3vR",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:geo": "rectangle",
+				"tldraw:size": "xl",
+				"tldraw:dash": "draw"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 1033.3333740234375,
+				"h": 566
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.5,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"x": 290.03571625726215,
+			"y": 334.4082080773576,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:GMR7c9ozlAfaQHmagrCwy",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aH7a0",
+			"typeName": "shape"
+		},
+		{
+			"x": -100.20503848089447,
+			"y": 305.2825830380791,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:F0kwVPTRZhfPR1x6A689M",
+			"type": "geo",
+			"props": {
+				"w": 270.0741043523309,
+				"h": 242.27241268052683,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a370D",
+			"typeName": "shape"
+		},
+		{
+			"x": 82.4921301505907,
+			"y": 770.9817449319726,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:rofWMc-Tlrf8PxvJPVLg5",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 159.9791717529297,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "files images "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aR7i7",
+			"typeName": "shape"
+		},
+		{
+			"x": 647.7702703814703,
+			"y": 342.3515658701617,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:elIt2wB1Vn2OIulfnDiVz",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aL4GD",
+			"typeName": "shape"
+		},
+		{
+			"x": 1414.46562907504,
+			"y": 1343.3663316986933,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:WBHiC9UoR8gDMyV1fjKZp",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 518.8690413862727,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Private bucket "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "You cannot access it without link"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "link has  token and signature  and permisiion get/put object"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aWBOs",
+			"typeName": "shape"
+		},
+		{
+			"x": 302.0926008764998,
+			"y": 431.05240465697653,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gwrVTJQu3uX9jb50UvJgY",
+			"type": "geo",
+			"props": {
+				"w": 71.49028073824786,
+				"h": 67.51860184184585,
+				"geo": "rectangle",
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aJ6za",
+			"typeName": "shape"
+		}
+	]
+}
