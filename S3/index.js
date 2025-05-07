@@ -6,8 +6,8 @@ const client = new S3Client(
     { 
         region: "us-east-1",
         credentials:{
-            accessKeyId:"AKIAZ3OSZ3RDL3NMD36S",
-            secretAccessKey:"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"
+            accessKeyId:process.env.AMZ,
+            secretAccessKey:process.env.SCZ
         }
     }
 );
